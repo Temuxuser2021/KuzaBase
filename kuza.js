@@ -2,10 +2,10 @@
 Script Ori : ABILBOTZ
 Nama Base : KuzaBase
 Nama Script : KuzaBase
-Recode : ABILBOTZ
+Recode : Noob Programer Raj
 Youtube Author : ABILBOTZ
-Youtube Recode : ABILBOTZ
-Nama Script Recode : KuzaBase
+Youtube Recode : Noob Programer Raj
+Nama Script Recode : i tech Base
 Versi Script Ori : Masih Base -_-
 Versi Script Recode : Masih Base -_-
 Created By ABILBOTZ
@@ -85,8 +85,8 @@ const simple = require('./lib/simple.js')
 let botname = '*_｢ KuzaBase 0.1 ｣ 冬_*' //NAMA BOT
 let lolkey = 'isi'
 let zekskey = 'NXRu7zmcmyWTn0YGNzIV0gTFgoP' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '*_｢ AbilGanz ✘ ｣_*' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let ownername = '*_｢ Noob Programer Raj ✘ ｣_*' //NAMA OWNER
+let owner = 919707905478' // NOMOR OWNER
 let symbol = '*☛*'
 let faketeks = `*_｢ KuzaBase 0.1 ｣ 冬_*` 
 
